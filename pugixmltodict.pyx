@@ -1,4 +1,5 @@
 # distutils: language = c++
+# distutils: sources = pugixml/src/pugixml.cpp
 
 from __future__ import unicode_literals
 import sys
