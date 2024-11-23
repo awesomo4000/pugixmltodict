@@ -23,7 +23,7 @@ if USE_CYTHON:
 
 setup(
     name="pugixmltodict",
-    version="0.6",
+    version="0.5",
     description="A fast alternative to xmltodict library",
     url="https://github.com/sepeth/pugixmltodict",
     author="Doğan Çeçen",
